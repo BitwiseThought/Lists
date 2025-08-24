@@ -1,5 +1,11 @@
 # ------------------------------------------------------------------------------
-# Title: BitwiseThought general whitelist
+# Title: BitwiseThought general pihole whitelist
+# ------------------------------------------------------------------------------
+#
+# Navigate to: https://PIHOLE_INSTANCE/admin/groups/lists
+# Paste "https://github.com/BitwiseThought/Lists/blob/main/pihole/whitelist.txt" into "Address" field.
+# Click "Add allowlist"
+#
 # ------------------------------------------------------------------------------
 
 # Amazon Prime Video
